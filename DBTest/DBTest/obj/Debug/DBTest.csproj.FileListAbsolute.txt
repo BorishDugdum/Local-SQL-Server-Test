@@ -1,0 +1,7 @@
+C:\Users\Warre\source\repos\DBTest\DBTest\bin\Debug\DBTest.exe.config
+C:\Users\Warre\source\repos\DBTest\DBTest\bin\Debug\DBTest.exe
+C:\Users\Warre\source\repos\DBTest\DBTest\bin\Debug\DBTest.pdb
+C:\Users\Warre\source\repos\DBTest\DBTest\obj\Debug\DBTest.csproj.CoreCompileInputs.cache
+C:\Users\Warre\source\repos\DBTest\DBTest\obj\Debug\DBTest.exe
+C:\Users\Warre\source\repos\DBTest\DBTest\obj\Debug\DBTest.pdb
+C:\Users\Warre\source\repos\DBTest\DBTest\obj\Debug\DBTest.csprojAssemblyReference.cache
